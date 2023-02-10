@@ -1,12 +1,3 @@
----
-name: Bug report
-about: Create a report to help us improve
-title: ''
-labels: ''
-assignees: ''
-
----
-
 *Overskrift* (Beskriv ønsket med få ord)
 
 
@@ -14,6 +5,11 @@ assignees: ''
 
 
 *Beskrivelse* (Beskriv ønsket grundigt - også gerne med screenshots)
+
+
+
+
+
 
 
 
