@@ -1,10 +1,10 @@
-*Overskrift* (Beskriv ønsket med få ord)
+**Overskrift** *(Beskriv ønsket med få ord)*
 
 
-*Problem* (hvilket problem skal løses?)
+**Problem** *(hvilket problem skal løses?)*
 
 
-*Beskrivelse* (Beskriv ønsket grundigt - også gerne med screenshots)
+**Beskrivelse** *(Beskriv ønsket grundigt - også gerne med screenshots)*
 
 
 
